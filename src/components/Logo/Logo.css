@@ -1,0 +1,10 @@
+.tilty {
+    width: 150px;
+    height: 150px;
+    background-color: #47d6ef;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    font-size:10vmax;
+    padding-top:3vmax;
+  }

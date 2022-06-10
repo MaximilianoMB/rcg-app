@@ -1,0 +1,8 @@
+.form {
+    width:700px;
+    background-color: #e5e5f7;
+    opacity: 0.8;
+    background-image:  linear-gradient(30deg, #ab3890 12%, transparent 12.5%, transparent 87%, #ab3890 87.5%, #ab3890), linear-gradient(150deg, #ab3890 12%, transparent 12.5%, transparent 87%, #ab3890 87.5%, #ab3890), linear-gradient(30deg, #ab3890 12%, transparent 12.5%, transparent 87%, #ab3890 87.5%, #ab3890), linear-gradient(150deg, #ab3890 12%, transparent 12.5%, transparent 87%, #ab3890 87.5%, #ab3890), linear-gradient(60deg, #3f8ca6 25%, transparent 25.5%, transparent 75%, #3f8ca6 75%, #3f8ca6), linear-gradient(60deg, #3f8ca6 25%, transparent 25.5%, transparent 75%, #3f8ca6 75%, #3f8ca6);
+    background-size: 20px 35px;
+background-position: 0 0, 0 0, 10px 18px, 10px 18px, 0 0, 10px 18px;
+}
